@@ -3,7 +3,6 @@
 This repository contains my completed **exercises** from the book  
 **Python Crash Course by Eric Matthes** – 3rd Edition.
 
-![Python Crash Course, 3rd Edition](assets/pcc_3e_cover.png)
 It’s a hands-on guide for learning Python, and this repo tracks my progress  
 through the chapters using real code.
 
@@ -47,8 +46,9 @@ Just code I wrote while practicing.
 **2. Navigate to a chapter folder:**
 `
 cd chapter_05
-`
-3. Run an exercise:
+`  
+
+**3. Run an exercise:**
 `
 python exercise_5_3.py
 `
