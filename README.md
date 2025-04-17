@@ -2,6 +2,7 @@
 
 This repository contains my completed **exercises** from the book  
 **Python Crash Course by Eric Matthes** – 3rd Edition.
+![python-crash-course](https://github.com/user-attachments/assets/c178600d-ca5d-4bb6-a5c2-48390ef0112d)
 
 It’s a hands-on guide for learning Python, and this repo tracks my progress  
 through the chapters using real code.
