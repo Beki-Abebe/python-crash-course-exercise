@@ -43,13 +43,13 @@ Just code I wrote while practicing.
    ```bash
    git clone https://github.com/your-username/python-crash-course-exercises.git
 ```
-**2. Navigate to a chapter folder:**
+**2. Navigate to a chapter folder:**  
 `
-cd chapter_05
+cd chapter_01
 `  
 
-**3. Run an exercise:**
+**3. Run an exercise:**  
 `
-python exercise_5_3.py
+python hello_world.py
 `
 
