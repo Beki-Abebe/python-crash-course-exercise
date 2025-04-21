@@ -42,7 +42,7 @@ Just code I wrote while practicing.
 **1. Clone this repo:**
 
    ```bash
-   git clone https://github.com/your-username/python-crash-course-exercises.git
+   git clone https://github.com/Beki-Abebe/python-crash-course-exercises.git
 ```
 **2. Navigate to a chapter folder:**  
 `
